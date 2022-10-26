@@ -1,0 +1,50 @@
+#resultControlDiv {
+    margin: auto;
+    width: 50%;
+
+    text-align: center;
+}
+
+.searchFormDiv {
+    display: flex;
+    justify-content: space-between;
+
+    margin: auto;
+    margin-top: 10px;
+
+ 
+}
+
+.searchFormDiv input {
+    width: 40%;
+    height: 30px;
+}
+
+.searchFormDiv button {
+    width: 75%;
+    margin: auto;
+}
+
+
+
+
+#taxonDiv input {
+    margin-top: 5px;
+    width: 99%;
+    height: 30px;
+}
+
+#titleH1 {
+    margin: 0;
+}
+
+#titleH1 span {
+    color: lightgray;
+    font-size: 10pt;
+}
+
+#errorP {
+    margin: auto;
+    margin-top: 20px;
+    width: fit-content;
+}

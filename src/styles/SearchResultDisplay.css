@@ -1,0 +1,24 @@
+
+
+.titleBox {
+    display: flex;
+    justify-content: start;
+}
+
+.flexItem {
+
+    width: 40%;
+}
+
+.smallImage {
+    max-width: 256px;
+    max-height: 256px;
+}
+
+.taxonP, .taxonH2 {
+    margin: 0px 0px 0px 20px;
+}
+
+.bioP {
+    margin: auto;
+}
